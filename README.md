@@ -1,1 +1,3 @@
-# Java-POS-System
+# BlockHead
+Java
+Point of Sales System
